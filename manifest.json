@@ -1,0 +1,16 @@
+
+{
+  "version": 1,
+  "files": [
+    "weapons/rust_ak47u.png",
+    "weapons/rust_boltrifle.png",
+    "weapons/rust_lr300.png",
+    "weapons/rust_mp5.png",
+    "weapons/rust_nailgun.png",
+    "weapons/rust_python.png",
+    "weapons/rust_revolver.png",
+    "weapons/rust_thompson.png",
+    "weapons/rust_waterpipe.png",
+    "weapons/sar.png"
+  ]
+}
